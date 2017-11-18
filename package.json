@@ -1,0 +1,23 @@
+{
+  "name": "dice-battle",
+  "version": "1.0.0",
+  "description": "Simple reactjs-based dice game about wizards doing battle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KLaukkanen/dice-battle.git"
+  },
+  "keywords": [
+    "game",
+    "dice"
+  ],
+  "author": "KLaukkanen",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KLaukkanen/dice-battle/issues"
+  },
+  "homepage": "https://github.com/KLaukkanen/dice-battle#readme"
+}
