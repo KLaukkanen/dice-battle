@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KLaukkanen/dice-battle/issues"
   },
-  "homepage": "https://github.com/KLaukkanen/dice-battle#readme"
+  "homepage": "https://github.com/KLaukkanen/dice-battle#readme",
+  "dependencies": {
+    "babel-register": "^6.26.0"
+  }
 }
